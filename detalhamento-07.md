@@ -29,15 +29,6 @@
 
 ---
 
-## Fluxo Alternativo II - Campo de busca vazio
-
-| Ações do ator | Ações do sistema |
-| :------------- | :---------------- |
-| 2.1 - O usuário tenta realizar a busca sem digitar nenhum termo. | |
-| | 2.2 - O sistema exibe uma mensagem informando que é necessário inserir um termo de busca para continuar. |
-| (fluxo finalizado) | |
-
-
 > Obs. as seções a seguir apenas serão utilizadas na segunda unidade do PDSWeb (segundo orientações do gerente do projeto).
 
 ## Diagrama de Interação (Sequência ou Comunicação)
