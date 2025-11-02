@@ -33,7 +33,7 @@
 
 ## Diagrama de Interação (Sequência ou Comunicação)
 
-![Diagrama de Sequência](imagens/diagrama_sequencia.png)
+![Diagrama de Sequência](Imagens/Projeto - CDU07.png)
 
 ## Diagrama de Classes de Projeto
 
