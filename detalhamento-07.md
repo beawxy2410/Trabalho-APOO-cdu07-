@@ -1,7 +1,7 @@
 # CDU002. Buscar Produto
 
 - **Ator principal:** Visitante, Comprador, Administrador e Gerente  
-- **Atores secundários:** Sistema de banco de dados  
+- **Atores secundários:** Não possui
 - **Resumo:** O usuário deseja localizar um produto específico digitando seu nome (ou parte dele) na barra de busca. O sistema retorna os produtos que contêm o termo informado.  
 - **Pré-condição:** O produto existir no catálogo  
 - **Pós-condição:** Exibir a lista de produtos que correspondem ao termo pesquisado pelo usuário  
