@@ -24,7 +24,7 @@
 | Ações do ator | Ações do sistema |
 | :------------- | :---------------- |
 | 1.1 - O usuário realiza a busca com um termo que não corresponde a nenhum produto cadastrado. | |
-| | 1.2 - O sistema informa que “nenhum produto foi encontrado” e oferece a opção de retornar à listagem completa de produtos. |
+| | 1.2 - O sistema informa que “nenhum produto foi encontrado”. |
 | (fluxo finalizado) | |
 
 ---
