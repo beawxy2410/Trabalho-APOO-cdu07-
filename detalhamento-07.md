@@ -1,4 +1,4 @@
-# CDU002. Buscar Produto
+# CDU007. Buscar Produto
 
 - **Ator principal:** Visitante, Comprador, Administrador e Gerente  
 - **Atores secundários:** Não possui
